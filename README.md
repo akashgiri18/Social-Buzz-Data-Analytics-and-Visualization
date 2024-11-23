@@ -15,9 +15,6 @@
  >- Client's Problem that Accenture is tasked to address : The client has reached a massive scale within recent years and does not have the resources internally to handle it.
  >- Three requirements that Accenture is tasked to fulfill : Audit of big data practice, recommendations for IPO, analysis of popular content
  
- #### Accenture Project Team :
- <img src = "Project Team.png">
- 
  #### Task for Data Analyst :
 Analysis of sample data sets with visualizations to understand the popularity of different content categories.
 
